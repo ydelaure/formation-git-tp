@@ -6,3 +6,6 @@ Liste des TODOs
 4
 ....
 100
+
+Application lourde : 
+Technologie swing
