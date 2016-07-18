@@ -1,6 +1,6 @@
 <html>
 <head><title><%transport.getId()%></title></head>
 <body>
-<p>%transport.getDecription()%</p>
+<p>%transport.getFullDecription()%</p>
 </body>
 </html>
