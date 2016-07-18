@@ -6,3 +6,6 @@ bla
   bla ...
 
 Volià c'est fini vous pouvez commencer :-)
+
+
+Les taches techniques à effectuer sont dans le dichier TODO.TXT 
